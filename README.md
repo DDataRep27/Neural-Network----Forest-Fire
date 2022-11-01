@@ -1,2 +1,4 @@
 # Neural-Network----Forest-Fire
-Prepare a neural network model to predict on the forest fire dataset 
+
+
+### Predict the burned area of forest fires with Neural Networks 
